@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: 28fbfb512d476499b95587bcc923bd71
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d45924b2779846fe986216a2214836d
+      internalID: -1372776552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 510
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98e99c10d2f44828902a4a297b69f9c
+      internalID: 1178315622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 510
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e2bfd5e6b184a09b089ca15abacfb1
+      internalID: -1704489758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 510
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc505052623d441998225f7792fb6b1
+      internalID: 777346699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 510
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048e7091b53644b4881c4f705691f9e8
+      internalID: -1239396466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 510
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0629bad0573a74529892a58869171aaf
+      internalID: 1025413422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 510
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7ae645711fa480d8c084553bee64de
+      internalID: -228804671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 510
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c891f1d95818c401ab0d2828339857e5
+      internalID: -839347648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88963b7e8d504dfba132534fd46e3ea
+      internalID: 1382915151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 340
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93a3ac5059bf4811b481b3cedc1d26e
+      internalID: -1439780716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 340
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abd6cf37b0f64d00a04b46ef8388de5
+      internalID: 1150474874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 340
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30ce3a1d72cc4a50890f14527ddbe1f
+      internalID: 1748070881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 340
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd4462cc7f56413fb16f785a1cec607
+      internalID: 1107529808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 340
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d577a2b756e484be3b8b802a07ccb42e
+      internalID: -1829329053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 340
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d19ae8ebf7148ffbbd4a055a441d6e
+      internalID: -911257326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 340
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d5cabc5bf6b4c63976cbabafff9b70
+      internalID: -681268264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caec18bc609be402696bdafd48ae858f
+      internalID: 1589744144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 170
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d533dd9cd564404dbf2287a05ba07b6
+      internalID: 528812372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 170
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4819ce20f3840ae85bb2158409ae61
+      internalID: -1301044784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 170
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aa7c822606d446aaa474d62be64e11
+      internalID: 855151188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 170
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965357f0fa3d74948b60b2945ce529d9
+      internalID: 1780976583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 170
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ba658935b1d410aab97fd0ba663e69
+      internalID: -782242837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 170
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a17fbcedbca4d4d809b17244269030
+      internalID: 1809895055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 170
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de74d510445d74ef69dc71988c387d70
+      internalID: 250052155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dcdb542c27f490eb7a7115cc0a5ab1
+      internalID: -1848671215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184380259fe684a01b7eeec1527e49fc
+      internalID: 218252916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4124a5caa68459081d934945cceee4
+      internalID: 1697854467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b2065e5daff4ec3a773e357fdc30f8
+      internalID: 1257738063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArabicAlphabetAudioVideo_0000 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 219.25
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313ac49dfd6464385a4d9f4ac849ee52
+      internalID: 222606149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 89f86826ebb0c46e29f287a7043b3ad3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ArabicAlphabetAudioVideo_0000 (1)_4: -1239396466
+      ArabicAlphabetAudioVideo_0000 (1)_24: -1848671215
+      ArabicAlphabetAudioVideo_0000 (1)_0: -1372776552
+      ArabicAlphabetAudioVideo_0000 (1)_17: 528812372
+      ArabicAlphabetAudioVideo_0000 (1)_18: -1301044784
+      ArabicAlphabetAudioVideo_0000 (1)_14: -911257326
+      ArabicAlphabetAudioVideo_0000 (1)_28: 222606149
+      ArabicAlphabetAudioVideo_0000 (1)_1: 1178315622
+      ArabicAlphabetAudioVideo_0000 (1)_12: 1107529808
+      ArabicAlphabetAudioVideo_0000 (1)_27: 1257738063
+      ArabicAlphabetAudioVideo_0000 (1)_9: -1439780716
+      ArabicAlphabetAudioVideo_0000 (1)_21: -782242837
+      ArabicAlphabetAudioVideo_0000 (1)_22: 1809895055
+      ArabicAlphabetAudioVideo_0000 (1)_13: -1829329053
+      ArabicAlphabetAudioVideo_0000 (1)_19: 855151188
+      ArabicAlphabetAudioVideo_0000 (1)_16: 1589744144
+      ArabicAlphabetAudioVideo_0000 (1)_2: -1704489758
+      ArabicAlphabetAudioVideo_0000 (1)_20: 1780976583
+      ArabicAlphabetAudioVideo_0000 (1)_8: 1382915151
+      ArabicAlphabetAudioVideo_0000 (1)_7: -839347648
+      ArabicAlphabetAudioVideo_0000 (1)_5: 1025413422
+      ArabicAlphabetAudioVideo_0000 (1)_6: -228804671
+      ArabicAlphabetAudioVideo_0000 (1)_23: 250052155
+      ArabicAlphabetAudioVideo_0000 (1)_26: 1697854467
+      ArabicAlphabetAudioVideo_0000 (1)_15: -681268264
+      ArabicAlphabetAudioVideo_0000 (1)_11: 1748070881
+      ArabicAlphabetAudioVideo_0000 (1)_10: 1150474874
+      ArabicAlphabetAudioVideo_0000 (1)_3: 777346699
+      ArabicAlphabetAudioVideo_0000 (1)_25: 218252916
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
